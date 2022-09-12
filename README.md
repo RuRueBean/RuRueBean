@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rushelle
-- 👀 I’m interested in reading, research, movies, history (world specifically), and continuing to grow and gain as much knowledge in data analyitics as I can.  I am new to the field so any chance I can get to gain more experience, I am more than happy to take part.  
+- 👀 I am an aspiring Data Scientist/Data Analyst looking to become apart of a growing community and grow professionally. I am eager to learn and looking to be apart of a team and changing the world. 
 - 🌱I am currently a certified Data Scientist.  
 - 💞️ I’m looking to collaborate any projects that will help me build a good portfolio and to expand my knowledge of data analyitics and data science
 - 📫 How to reach me ...You can reach me at ruemarie41@gmail.com
